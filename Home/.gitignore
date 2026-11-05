@@ -1,0 +1,27 @@
+# IDE settings
+.idea/
+
+# Database configuration and environment files
+/config.php
+.env
+.env.txt
+.env.*
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Dependencies
+vendor/
+node_modules/
+
+# Database backups
+*.sql
+*.sql.gz
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
